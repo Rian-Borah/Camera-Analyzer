@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 18 13:10:31 2019
 
-@author: Anmol Singh Dhaliwal
+@authors: anmolsingh, rianborah
 """
 
 rightData = [[313, 51],
