@@ -4,6 +4,13 @@ from numpy import *
 from matplotlib import pyplot as plt
 from matplotlib import style
 
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 17 00:10:31 2019
+
+@author: rianborah
+"""
+
 '''
 Patterns:
 
