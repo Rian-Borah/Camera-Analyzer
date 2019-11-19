@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+FOR STORED DATA, SIMULATED AS REAL TIME
+
 Created on Thu Nov 14 20:32:40 2019
 
-@author: anmolsingh
+@authors: anmolsingh, rianborah
 """
 import data
 import serial
